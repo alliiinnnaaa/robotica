@@ -1,0 +1,3 @@
+<launch>
+<node pkg="test_actions" type="act_goal_quiz.py" name="goal_actions" output="screen"> </node>
+</launch>
